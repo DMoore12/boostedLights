@@ -8,7 +8,7 @@ Roadmap:
 
 - [X] Initial conceptualization
 - [X] Initial mock-up
-- [ ] Basic riser design (CAD)
+- [X] Basic riser design (CAD)
 - [ ] Basic light structure (CAD)
 - [ ] Basic support structure (CAD)
 - [X] Basic circuit topology
