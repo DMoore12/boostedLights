@@ -1,6 +1,6 @@
 # Boosted "Beams"
 
-<p align="center"><img src="assets/isoLightsPrev.jpg" height=400></p>
+<p align="center"><img src="assets/isoLightsPrev.JPG" height=400></p>
 
 With the current state of Boosted, the resale value for Boosted Beams is quite insane. The hope of this project is to provide a set of lights that offers a similar featureset and design style as the Beams while maintaining a reasonable price.
 
